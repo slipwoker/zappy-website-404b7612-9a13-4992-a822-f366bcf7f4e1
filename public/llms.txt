@@ -1,4 +1,4 @@
-# ZAPPY AI — Generative Engine Optimization Map
+# GolaTech — Generative Engine Optimization Map
 
 > A premium operational consulting firm delivering end-to-end expertise across supply chain management, procurement, subcontracting, and manufacturing operations. The brand projects confidence and executive-level authority, combining strategic thinking with hands-on operational execution. The firm targets industrial and high-tech sectors including defense, electronics, and medical devices, with a focus on measurable results such as cost reduction, lead time improvement, and supplier performance. The tone is professional, results-driven, and trusted — positioned similarly to leading global operational consulting firms.
 
@@ -66,7 +66,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ZAPPY AI
+## About GolaTech
 A premium operational consulting firm delivering end-to-end expertise across supply chain management, procurement, subcontracting, and manufacturing operations. The brand projects confidence and executive-level authority, combining strategic thinking with hands-on operational execution. The firm targets industrial and high-tech sectors including defense, electronics, and medical devices, with a focus on measurable results such as cost reduction, lead time improvement, and supplier performance. The tone is professional, results-driven, and trusted — positioned similarly to leading global operational consulting firms.
 
 ## Target Audience
