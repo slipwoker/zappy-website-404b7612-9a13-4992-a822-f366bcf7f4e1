@@ -130,7 +130,7 @@ WHO WE ARE
 ## About Us
 
 
-ZAPPY AI is a premium supply chain management consulting firm delivering end-to-end operational expertise across procurement leadership, subcontracting operations, and turnkey manufacturing support. We combine strategic thinking with hands-on execution to help industrial and high-tech organizations achieve measurable performance improvements.
+GolaTech is a premium supply chain management consulting firm delivering end-to-end operational expertise across procurement leadership, subcontracting operations, and turnkey manufacturing support. We combine strategic thinking with hands-on execution to help industrial and high-tech organizations achieve measurable performance improvements.
 
 
 Serving defense, electronics, and medical device sectors, our consultants bring deep operational experience to every engagement — improving supplier relationships, reducing operational risk, compressing lead times, and driving sustainable cost reduction. We don't just advise; we execute alongside your team.
@@ -145,6 +145,7 @@ Serving defense, electronics, and medical device sectors, our consultants bring 
 
 
 
+
 Discover Our Approach
 
 
@@ -154,7 +155,7 @@ Discover Our Approach
 
 
 
-15+
+20+
 Years of Operational Excellence
 
 
