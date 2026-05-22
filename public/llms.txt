@@ -1,0 +1,87 @@
+# ZAPPY AI — Generative Engine Optimization Map
+
+> A premium operational consulting firm delivering end-to-end expertise across supply chain management, procurement, subcontracting, and manufacturing operations. The brand projects confidence and executive-level authority, combining strategic thinking with hands-on operational execution. The firm targets industrial and high-tech sectors including defense, electronics, and medical devices, with a focus on measurable results such as cost reduction, lead time improvement, and supplier performance. The tone is professional, results-driven, and trusted — positioned similarly to leading global operational consulting firms.
+
+---
+
+## Pages
+
+### Home
+https://zappy-ai-404b7612.zappy5.app
+ZAPPY AI delivers executive-level supply chain management consulting for defense, electronics, and medical devices. Reduce costs, cut lead times, and outperform. Start today.
+
+### About
+https://zappy-ai-404b7612.zappy5.app/about
+Meet the strategic minds behind ZAPPY AI — a premium consulting firm combining hands-on execution with boardroom-level thinking to transform complex supply chains into competitive advantages.
+
+### Services
+https://zappy-ai-404b7612.zappy5.app/services
+From procurement strategy to manufacturing optimization, ZAPPY AI&#39;s supply chain management consulting services are engineered for measurable impact. Explore what we can fix, fast.
+
+### Industries
+https://zappy-ai-404b7612.zappy5.app/industries
+Defense, electronics, medical devices — ZAPPY AI brings deep sector knowledge and supply chain management consulting to the industries where operational failure is never an option.
+
+### Projects
+https://zappy-ai-404b7612.zappy5.app/projects
+Explore ZAPPY AI&#39;s portfolio of high-impact engagements — from slashing supplier lead times to restructuring global procurement operations. See supply chain transformation in action.
+
+### Contact
+https://zappy-ai-404b7612.zappy5.app/contact
+Connect with ZAPPY AI&#39;s operational consulting experts today. Whether it&#39;s supply chain management consulting services or a full procurement overhaul, your next breakthrough starts with one conversation.
+
+## Legal & Policy
+
+### Privacy Policy
+https://zappy-ai-404b7612.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zappy-ai-404b7612.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zappy-ai-404b7612.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://zappy-ai-404b7612.zappy5.app/contact
+- Endpoint: https://zappy-ai-404b7612.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ZAPPY AI
+A premium operational consulting firm delivering end-to-end expertise across supply chain management, procurement, subcontracting, and manufacturing operations. The brand projects confidence and executive-level authority, combining strategic thinking with hands-on operational execution. The firm targets industrial and high-tech sectors including defense, electronics, and medical devices, with a focus on measurable results such as cost reduction, lead time improvement, and supplier performance. The tone is professional, results-driven, and trusted — positioned similarly to leading global operational consulting firms.
+
+## Target Audience
+- manufacturers, high-tech companies, industrial organizations, defense, electronics, medical devices, logistics companies
+- Supply Chain Executives
+- Procurement Leaders
+- Manufacturing Tech Innovators
+
+## Industry
+Management Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://zappy-ai-404b7612.zappy5.app/sitemap.xml
+- Robots: https://zappy-ai-404b7612.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zappy-ai-404b7612.zappy5.app/llms-full.txt
